@@ -245,81 +245,81 @@ const quizessData : Array<Quiz> = [
 
 
 const usersData : Array<User> = [
-    {
-        id: 1,
-        name: 'Julius R.',
-        score: 0
-    },
-    {
-        id: 2,
-        name: 'Earvin',
-        score: 0
-    },
-    {
-        id: 3,
-        name: 'Jowel',
-        score: 0
-    },
-    {
-        id: 4,
-        name: 'Robin',
-        score: 0
-    },
-    {
-        id: 5,
-        name: 'Dino',
-        score: 0
-    },
-    {
-        id: 6,
-        name: 'Angel',
-        score: 0
-    },
-    {
-        id: 7,
-        name: 'Daryl',
-        score: 0
-    },
-    {
-        id: 8,
-        name: 'Kenny',
-        score: 0
-    },
-    {
-        id: 9,
-        name: 'Ryan U.',
-        score: 0
-    },
-    {
-        id: 10,
-        name: 'Gerry Mae',
-        score: 0
-    },
-    {
-        id: 11,
-        name: 'Kevin',
-        score: 0
-    },
-    {
-        id: 12,
-        name: 'Joegie',
-        score: 0
-    },
-    {
-        id: 13,
-        name: 'JR',
-        score: 0
-    },
-    {
-        id: 14,
-        name: 'Joshua',
-        score: 0
-    },
-    {
-        id: 15,
-        name: 'Leo',
-        score: 0
-    }
+    // {
+    //     id: 1,
+    //     name: 'Julius R.',
+    //     score: 0
+    // },
+    // {
+    //     id: 2,
+    //     name: 'Earvin',
+    //     score: 0
+    // },
+    // {
+    //     id: 3,
+    //     name: 'Jowel',
+    //     score: 0
+    // },
+    // {
+    //     id: 4,
+    //     name: 'Robin',
+    //     score: 0
+    // },
+    // {
+    //     id: 5,
+    //     name: 'Dino',
+    //     score: 0
+    // },
+    // {
+    //     id: 6,
+    //     name: 'Angel',
+    //     score: 0
+    // },
+    // {
+    //     id: 7,
+    //     name: 'Daryl',
+    //     score: 0
+    // },
+    // {
+    //     id: 8,
+    //     name: 'Kenny',
+    //     score: 0
+    // },
+    // {
+    //     id: 9,
+    //     name: 'Ryan U.',
+    //     score: 0
+    // },
+    // {
+    //     id: 10,
+    //     name: 'Gerry Mae',
+    //     score: 0
+    // },
+    // {
+    //     id: 11,
+    //     name: 'Kevin',
+    //     score: 0
+    // },
+    // {
+    //     id: 12,
+    //     name: 'Joegie',
+    //     score: 0
+    // },
+    // {
+    //     id: 13,
+    //     name: 'JR',
+    //     score: 0
+    // },
+    // {
+    //     id: 14,
+    //     name: 'Joshua',
+    //     score: 0
+    // },
+    // {
+    //     id: 15,
+    //     name: 'Leo',
+    //     score: 0
+    // }
     
 ]
 
